@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Debug" t="Include">
+          <e p="CatClout.shader" t="Include" />
+          <e p="DebugCam.cs" t="Include" />
+          <e p="DebugCloud.cs" t="Include" />
+          <e p="DistanceFunctions.cginc" t="Include" />
+          <e p="FBM.cginc" t="Include" />
+          <e p="SDF.cginc" t="Include" />
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="MycameraMOVE.cs" t="Include" />
+          <e p="RaymarchCamera.cs" t="Include" />
+          <e p="RayMarchingCamGpu.cs" t="Include" />
+          <e p="RayTracingMaster.cs" t="Include" />
+          <e p="RayTracingObject.cs" t="Include" />
+          <e p="SceneViewFilter.cs" t="Include" />
+          <e p="SphereMove.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="RayMarchingPlayBall.sln" t="IncludeFlat" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2018.2/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2018.2/resharper-host/local/Transient/ReSharperHost/v182/SolutionCaches/_RayMarchingPlayBall.84640423.00" t="ExcludeRecursive" />
+    <e p="$APPLICATION_CONFIG_DIR$/extensions" t="IncludeRecursive" />
+  </component>
+</project>
